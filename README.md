@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hey there! I'm Abdelhaq Nouhi.</h2>
+<h2> I'm Abdelhaq Nouhi.</h2>
 
-<h3> I am a Full-stack developer <h3> 
+<h3> Full-stack developer <h3> 
 
 
 <a href="https://github.com/AVS1508">
