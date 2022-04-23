@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3> Full-stack developer <h3> 
+<h3> Full Stack Developer <h3> 
 
 
 <a href="https://github.com/AVS1508">
