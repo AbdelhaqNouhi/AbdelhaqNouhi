@@ -5,15 +5,23 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently student @ Youcode-safi
+- 🌱 I’m currently learning Php Laravel
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: A.NOUHI@Student.youcode.ma
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+- 🔭 I’m currently student @ Youcode-safi
+- 🌱 I’m currently learning Php Laravel
+- 📫 How to reach me: A.NOUHI@Student.youcode.ma
+
+
+
 
 <h3> Full Stack Developer <h3> 
 
