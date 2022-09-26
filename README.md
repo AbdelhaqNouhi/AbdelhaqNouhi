@@ -24,11 +24,12 @@ Here are some ideas to get you started:
 
 
 <h3> Full Stack Developer <h3> 
+<!-- <h3> 🤝🏻 &nbsp;Connect with Me </h3> -->
+
 
 
 <a href="https://github.com/AVS1508">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=AbdelhaqNouhi&show_icons=true&theme=gotham" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelhaqNouhi&layout=compact&theme=gotham" />
+  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelhaqNouhi&layout=compact&theme=gotham" />
 </a>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
