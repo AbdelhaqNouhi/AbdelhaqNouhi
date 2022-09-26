@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/AVS1508">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=AbdelhaqNouhi&show_icons=true&theme=gotham" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelhaqNouhi&layout=compact&theme=gotham" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=AbdelhaqNouhi&show_icons=true&theme=gotham" />  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelhaqNouhi&layout=compact&theme=gotham" />
 </a>
 
