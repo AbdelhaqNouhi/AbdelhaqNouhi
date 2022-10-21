@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently student @ Youcode-safi
-- 🌱 I’m currently learning Php Laravel
+- 🌱 I’m currently learning Php Laravel and JavaScript Node.js
 - 📫 How to reach me: A.NOUHI@Student.youcode.ma
 
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h3> Full Stack Developer <h3> 
 <!-- <h3> 🤝🏻 &nbsp;Connect with Me </h3> -->
 
-
+<br/>
 
 <a>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=AbdelhaqNouhi&show_icons=true&theme=gotham" />  
