@@ -1,6 +1,6 @@
-### Hi I'm Abdelhaq Nouhi 👋
+## Hi I'm Abdelhaq Nouhi 👋
 
-# Full Stack Developer 
+#### Full Stack Developer 
 
 <!--
 **AbdelhaqNouhi/AbdelhaqNouhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Php Laravel and JavaScript Node.js
 - 📫 How to reach me: A.NOUHI@Student.youcode.ma
 
+<br/>
 
 <!-- <h3> 🤝🏻 &nbsp;Connect with Me </h3> -->
 
