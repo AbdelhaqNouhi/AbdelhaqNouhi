@@ -39,4 +39,4 @@ const Hala = {
 
 
 
-<img src="https://www.flaticon.com/free-icon/signboard_2279398?related_id=2279398&origin=search" width="60"> <em> Thanks for visiting :heart: </em>
+<img url="https://www.flaticon.com/free-icon/signboard_2279398?related_id=2279398&origin=search" width="60"> <em> Thanks for visiting :heart: </em>
