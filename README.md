@@ -2,7 +2,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B+I+am+Hala+Ziani;Welcome+to+My+Profile!++)](https://git.io/typing-svg)
-### <img src="https://www.flaticon.com/free-animated-icon/social-media_6172532" width="50"> A little more about me...
+### <img src="./image/social-media.png" width="50"> A little more about me...
 ```javascript
 const Hala = {
   name: "Abdelhaq",
@@ -39,4 +39,4 @@ const Hala = {
 
 
 
-<img url="https://www.flaticon.com/free-icon/signboard_2279398?related_id=2279398&origin=search" width="60"> <em> Thanks for visiting :heart: </em>
+<img src="./image/signboard.png" width="60"> <em> Thanks for visiting :heart: </em>
