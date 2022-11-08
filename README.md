@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B+I+am+Hala+Ziani;Welcome+to+My+Profile!++)](https://git.io/typing-svg)
 ### <img src="./image/social-media.png" width="50"> A little more about me...
 ```javascript
-const Hala = {
+const Abdelhaq = {
   name: "Abdelhaq",
   age: 24,
   pronouns: "she/her",
