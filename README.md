@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/Halazv2)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B+I+am+Hala+Ziani;Welcome+to+My+Profile!++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B+I+am+Abdelhaq+Nouhi;Welcome+to+My+Profile!++)](https://git.io/typing-svg)
 ### <img src="https://www.flaticon.com/free-animated-icon/social-media_6172532" width="50"> A little more about me...
 ```javascript
 const Abdelhaq = {
@@ -32,7 +32,7 @@ const Abdelhaq = {
   </tr>
 </table>
 
-[![AbdelhaqNouhi' github activity graph](https://activity-graph.herokuapp.com/graph?username=Halazv2&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![AbdelhaqNouhi' github activity graph](https://activity-graph.herokuapp.com/graph?username=AbdelhaqNouhi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
