@@ -2,7 +2,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B+I+am+Hala+Ziani;Welcome+to+My+Profile!++)](https://git.io/typing-svg)
-### <img src="./image/social-media.png" width="50"> A little more about me...
+### <img src="./image/social-media.png" alt=".." width="50"> A little more about me...
 ```javascript
 const Abdelhaq = {
   name: "Abdelhaq",
@@ -39,4 +39,4 @@ const Abdelhaq = {
 
 
 
-<img src="./image/signboard.png" width="60"> <em> Thanks for visiting :heart: </em>
+<img src="./image/signboard.png" alt=".." width="60"> <em> Thanks for visiting :heart: </em>
