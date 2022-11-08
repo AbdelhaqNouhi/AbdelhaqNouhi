@@ -2,7 +2,8 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B+I+am+Abdelhaq+Nouhi;Welcome+to+My+Profile!++)](https://git.io/typing-svg)
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### <img src="https://www.flaticon.com/free-animated-icon/social-media_6172532" width="50"> A little more about me...
+
 ```javascript
 const Abdelhaq = {
   name: "Abdelhaq",
