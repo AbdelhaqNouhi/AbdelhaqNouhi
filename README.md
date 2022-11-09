@@ -41,6 +41,6 @@ const Abdelhaq = {
 
 
 
-<em> Thanks for visiting :heart white: </em>
+<em> Thanks for visiting 💙: </em>
 
 <!-- <img src="" width="60"> -->
