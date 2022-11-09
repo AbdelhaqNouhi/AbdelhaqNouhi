@@ -9,7 +9,6 @@
 const Abdelhaq = {
   name: "Abdelhaq",
   age: 24,
-  pronouns: "she/her",
   school: "YouCode, Safi",
   interests: ["music", "movies", "sports", "travel"],
   stack: "Full stack web developer",
