@@ -34,13 +34,13 @@ const Abdelhaq = {
   </tr>
 </table>
 
-[![AbdelhaqNouhi' github activity graph](https://activity-graph.herokuapp.com/graph?username=AbdelhaqNouhi&theme=react-dark height="400")](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![AbdelhaqNouhi' github activity graph](https://activity-graph.herokuapp.com/graph?username=AbdelhaqNouhi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
 
 
 
-<em> Thanks for visiting :heart: </em>
+<em> Thanks for visiting :heart white: </em>
 
 <!-- <img src="" width="60"> -->
