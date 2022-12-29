@@ -5,22 +5,23 @@
 ### 🔭 A little more about me...
 <!-- <img src="" width="50">  -->
 
-```javascript
+```Javascript
 const Abdelhaq = {
-  name: "Abdelhaq",
-  age: 24,
-  school: "YouCode, Safi",
-  interests: ["music", "movies", "sports", "travel"],
-  stack: "Full stack web developer",
-  address: {
-    city: "Agadir",
-    country: "Morocco",
+  Name: "Abdelhaq",
+  Age: 24,
+  School: "YouCode, Safi",
+  Interests: ["music", "movies", "sports", "travel"],
+  Stack: "Full stack web developer",
+  Address: {
+    City: "Agadir",
+    Country: "Morocco",
   },
-  code: ["javascript", "NodeJs" "PHP", "HTML", "CSS"],
-  frameworks: ["React", "Vue", "Larvel", "Tailwindcss"],
-  architecture: ["MVC"],
-  tools: ["Git", "Github", "VSCode", "AdobeXD" , "Figma"],
-  languages: ["English", "Arabic", "French"],
+  Code: ["Javascript", "NodeJs" "PHP", "HTML", "CSS"],
+  Frameworks: ["React", "Vue", "Express "Larvel", "Tailwindcss"],
+  Architecture: ["MVC"],
+  Database ["MYSQL", "POSTGRES", "Mongo DB"],
+  Tools: ["Git", "Github", "UML", "Jira Software", "Trello", "Docker", "VSCode", "AdobeXD" , "Figma"],
+  Languages: ["English", "Arabic", "French"],
 };
 ```
 ### 📈 GitHub stats & Activity Graph :
