@@ -17,7 +17,7 @@ const Abdelhaq = {
     Country: "Morocco",
   },
   Code: ["Javascript", "NodeJs" "PHP", "HTML", "CSS"],
-  Frameworks: ["React", "Vue", "Express "Larvel", "Tailwindcss"],
+  Frameworks: ["React", "Vue", "Express, "Larvel", "Tailwindcss"],
   Architecture: ["MVC"],
   Database ["MYSQL", "POSTGRES", "Mongo DB"],
   Tools: ["Git", "Github", "UML", "Jira Software", "Trello", "Docker", "VSCode", "AdobeXD" , "Figma"],
