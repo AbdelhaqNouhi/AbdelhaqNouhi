@@ -5,25 +5,7 @@
 ### 🔭 A little more about me...
 <!-- <img src="" width="50">  -->
 
-```Javascript
-const Abdelhaq = {
-  Name: "Abdelhaq",
-  Age: 24,
-  School: "YouCode, Safi",
-  Interests: ["music", "movies", "sports", "travel"],
-  Stack: "Full stack web developer",
-  Address: {
-    City: "Agadir",
-    Country: "Morocco",
-  },
-  Code: ["Javascript", "NodeJs" "PHP", "HTML", "CSS"],
-  Frameworks: ["React", "Vue", "Express, "Larvel", "Tailwindcss"],
-  Architecture: ["MVC"],
-  Database ["MYSQL", "POSTGRES", "Mongo DB"],
-  Tools: ["Git", "Github", "UML", "Jira Software", "Trello", "Docker", "VSCode", "AdobeXD" , "Figma"],
-  Languages: ["English", "Arabic", "French"],
-};
-```
+
 ### 📈 GitHub stats & Activity Graph :
 <table cellpadding="0">
   <tr style="padding: 10">
